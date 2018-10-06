@@ -1,0 +1,79 @@
+
+h1 {
+	color: white;
+	font-size: 75px;	
+}
+
+a {
+	text-decoration: none;
+	color: white;
+	text-align: center;
+	display: inline-block;
+	direction: inherit;
+    overflow: auto;
+    height: 50px;
+    width: 180px;	 
+}
+
+p {
+	font-family: calibri; 
+	font-size: 20px;
+	color: white;
+	text-align: center;
+}
+
+.headline {
+    background: black;
+    padding: 1px;
+    color: white;
+    font-size: 30px;
+    font-family: calibri;
+}
+
+.headline a {
+	color: white
+}
+
+
+.header {
+	background-image: linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url("Wine and Cheese image.jpg");
+	background-size: cover;
+	padding: 200px;
+	text-align: center;
+}
+
+.header h1 {
+	color: white;
+}
+
+.head2 { 
+	font-family: calibri;
+	text-decoration: none;
+	border: 1px solid white;
+	padding: 50px;
+    box-shadow: 1px 1px 1px grey;
+ }
+
+
+ .barsection {
+ 	background: black;
+ 	padding:100px;
+	}
+
+ .features {
+	background-color: black;
+	padding: 100px;
+	margin: 0px;	 	
+ }
+ .card-text {
+ 	color: black;
+ }
+.cards {
+	background: black;	
+}
+
+
+
+
+
+ }
